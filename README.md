@@ -1,2 +1,1 @@
-# HandWrittenDigitRecognition
-# HandWrittenDigitRecognition
+
